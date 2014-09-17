@@ -5,9 +5,9 @@ sourceCompatibility = 1.7
 version = '1.0'
 jar {
     manifest {
-        attributes 'Implementation-Title': 'Hello World', 
+        attributes 'Implementation-Title': 'TicTacToe', 
                    'Implementation-Version': version, 
-                   'Main-Class': 'edu.jsu.mcis.HelloWorld'
+                   'Main-Class': 'TicTacToe.TicTacToe'
     }
 }
 
